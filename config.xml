@@ -2,7 +2,7 @@
 <widget id="com.ionicframework.ionicPushDemo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>pushApp</name>
   <description>
-        An Ionic Framework and Cordova project.
+        An Ionic starter app with push registration.
     </description>
   <author email="rudy@drifty.com" href="http://ionicframework.com/">
       Rudy Pelrine
