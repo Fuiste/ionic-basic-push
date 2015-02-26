@@ -11,9 +11,9 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
         // Identify app
         $ionicAppProvider.identify({
             // Your App ID
-            app_id: '3695a752',
+            app_id: 'YOUR_APP_ID_HERE',
             // The public API key services will use for this app
-            api_key: 'a81bd6d7ea081f191c3cfd6f98e511a20fcab5ec53a18a5f'
+            api_key: 'YOUR_API_KEY_HERE'
         });
 
     }])
