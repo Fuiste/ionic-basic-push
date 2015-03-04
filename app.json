@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "org.apache.cordova.device",
+    "org.apache.cordova.console",
+    "com.ionic.keyboard",
+    "https://github.com/phonegap-build/PushPlugin.git"
+  ],
+  "sass": false
+}
